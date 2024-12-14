@@ -22,7 +22,7 @@
 </p>
 
 <h3 align="center">
-A cli to browse and watch anime (alone AND with friends). This tool scrapes the site <a href="https://allmanga.to/">allmanga.</a>
+A fork of the ani-cli to browse and watch anime (alone AND with friends). Rewriting this tool to work with wcostream!
 </h3>
 
 <h1 align="center">
